@@ -1,14 +1,14 @@
 {
-  "name": "tern",
+  "name": "ternjs",
   "license": "MIT",
-  "version": "0.21.0",
-  "author": "Marijn Haverbeke <marijnh@gmail.com>",
+  "version": "0.22.0",
+  "author": "Marijn Haverbeke <marijnh@gmail.com>, changed by lwxyfer",
   "description": "A JavaScript code analyzer for deep, cross-editor language support",
   "main": "lib/tern.js",
   "bin": "./bin/tern",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ternjs/tern.git"
+    "url": "git://github.com/lwxyfer/tern.git"
   },
   "scripts": {
     "test": "node ./bin/test"

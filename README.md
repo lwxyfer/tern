@@ -1,5 +1,7 @@
 # Tern
 
+> THIS IS A FORK
+
 [![Build Status](https://secure.travis-ci.org/ternjs/tern.svg)](http://travis-ci.org/ternjs/tern)
 [![NPM version](https://img.shields.io/npm/v/tern.svg)](https://www.npmjs.org/package/tern)  
 [Funding status: ![maintainer happiness](https://marijnhaverbeke.nl/fund/status_s.png?again)](https://marijnhaverbeke.nl/fund/)
